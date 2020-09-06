@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>true</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Admin Forms\AdminCreateTrainingViewerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin Forms\AdminEditTrainingPlanViewerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin Forms\AdminEditTrainingViewerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin Forms\AdminEditTrainingWindowForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin Forms\AdminEditUserViewerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee Forms\EmployeeCreateAccountViewerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee Forms\EmployeeTrainingPlanViewerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="General\LoginViewerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Control\ChangeUserCredentials.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MainForm\MainViewerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee Forms\EmployeeBookTrainingViewerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Control\SearchTrainingUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Control\SearchUserUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Control\TrainingOverviewUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="General\UserSettingsViewerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Control\TrainingPlanOverviewUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
